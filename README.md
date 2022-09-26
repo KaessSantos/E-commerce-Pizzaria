@@ -1,3 +1,3 @@
 # Pizza
  Compra de pizza, 
- https://kaesssantos.github.io/E-commerce-Pizza/
+ https://kaesssantos.github.io/E-commerce-Pizzaria/
