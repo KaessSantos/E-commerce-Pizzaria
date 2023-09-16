@@ -10,7 +10,7 @@
     <img alt="projeto portifólio" src=".github/img-2.png" width="100%">
  </p>
  <p>
-    <img alt="projeto portifólio" src=".github/img-3.png" width="100%">
+    <img alt="projeto portifólio" src=".github/img-3.png" width="50%">
  </p>
 
 
